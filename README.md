@@ -30,6 +30,10 @@
 
 ---
 
+## 购买联系方式：
+![微信图片_20260222225531_5_43](https://github.com/user-attachments/assets/8ded8486-01cd-4795-b7b1-3ebdb4ecaa51)
+
+
 ## 项目预览
 
 ### 部分前台页面
